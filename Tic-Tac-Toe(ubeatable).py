@@ -1,7 +1,7 @@
 #AYESHA
-#SP21-BAI-009
+
 #ARTIFICAL INTELLEGENCE
-#*ALL CONDITIONS OF PROJECT ARE FULLFILED WITH COMMENTS BESIDE THEM*
+
 #---------------------------------------------------------------------------------------------------#
 # CHECKING IF USER ENTER RIGHT BOX NUMBER
 # HUMAN MOVE
